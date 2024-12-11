@@ -1,0 +1,26 @@
+# Maven/Gradle 관련
+/target/
+/build/
+/.gradle/
+
+# IntelliJ IDEA 및 Eclipse 설정
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+
+# 운영 체제 및 사용자 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# 환경 설정 파일
+.env
+
+# 기타 캐시 파일
+*.class
+*.war
+*.jar
